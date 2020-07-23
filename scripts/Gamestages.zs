@@ -4,7 +4,7 @@ mods.DimensionStages.addDimensionStage("Age4", 4);
 mods.DimensionStages.addDimensionStage("Age4", 1);
 
 #Item Stages (ITEM)
-mods.ItemStages.addItemStage("Age2", <mysticalagriculture:crafting:17>);
+mods.ItemStages.addItemStage("Age1", <mysticalagriculture:crafting:17>);
 mods.ItemStages.addItemStage("Age6", <mysticalagriculture:crafting:18>);
 mods.ItemStages.addItemStage("Age7", <mysticalagriculture:crafting:19>);
 mods.ItemStages.addItemStage("Age8", <mysticalagriculture:crafting:20>);
@@ -191,6 +191,3 @@ mods.recipestages.Recipes.setRecipeStageByMod("Age9", "avaritia");
 #Orestage
 mods.orestages.OreStages.addReplacement("Age8", <draconicevolution:draconium_ore:1>, <minecraft:netherrack>);
 mods.orestages.OreStages.addReplacement("Age8", <draconicevolution:draconium_ore:2>, <minecraft:end_stone>);
-mods.orestages.OreStages.addReplacement("Age8", <dimensionaledibles:nether_cake>, <minecraft:barrier>);
-mods.orestages.OreStages.addReplacement("Age8", <dimensionaledibles:custom_cake>.withTag({dimID: 4, cakeName: "The Aether"}), <minecraft:barrier>);
-mods.orestages.OreStages.addReplacement("Age8", <dimensionaledibles:end_cake>, <minecraft:barrier>);
