@@ -191,3 +191,12 @@ mods.recipestages.Recipes.setRecipeStageByMod("Age9", "avaritia");
 #Orestage
 mods.orestages.OreStages.addReplacement("Age8", <draconicevolution:draconium_ore:1>, <minecraft:netherrack>);
 mods.orestages.OreStages.addReplacement("Age8", <draconicevolution:draconium_ore:2>, <minecraft:end_stone>);
+
+#Remove and Add
+mods.ItemStages.removeItemStage(<botania:manaresource:21>);
+mods.ItemStages.removeItemStage(<astralsorcery:itemcraftingcomponent>);
+mods.ItemStages.removeItemStage(<enderio:block_infinity_fog>);
+mods.ItemStages.removeItemStage(<enderio:item_material:20>);
+mods.ItemStages.addItemStage("Age2", <astralsorcery:itemcraftingcomponent>);
+mods.ItemStages.addItemStage("Age2", <enderio:block_infinity_fog>);
+mods.ItemStages.addItemStage("Age2", <enderio:item_material:20>);
