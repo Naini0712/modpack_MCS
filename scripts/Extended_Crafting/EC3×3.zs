@@ -9,9 +9,9 @@ mods.extendedcrafting.TableCrafting.addShaped(<extendedcrafting:table_advanced>,
 [<industrialforegoing:plastic>, <enderio:item_material:16>, <industrialforegoing:plastic>]]); 
 
 mods.extendedcrafting.TableCrafting.addShaped(<enderio:item_material>, [
-[<enderio:item_alloy_ingot:9>, <projectred-core:resource_item:104>, <enderio:item_alloy_ingot:9>], 
+[<magneticraft:heavy_plates:3>, <projectred-core:resource_item:104>, <magneticraft:heavy_plates:3>], 
 [<projectred-core:resource_item:104>, <enderio:item_material:20>, <projectred-core:resource_item:104>], 
-[<enderio:item_alloy_ingot:9>, <projectred-core:resource_item:104>, <enderio:item_alloy_ingot:9>]]); 
+[<magneticraft:heavy_plates:3>, <projectred-core:resource_item:104>, <magneticraft:heavy_plates:3>]]); 
 
 mods.extendedcrafting.TableCrafting.addShaped(<actuallyadditions:block_misc:9>, [
 [<ore:heavyPlateIron>, <ore:plateAluminum>, <ore:heavyPlateIron>], 
