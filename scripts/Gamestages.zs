@@ -183,7 +183,7 @@ mods.recipestages.Recipes.setRecipeStageByMod("Age6", "rebornstorage");
 mods.recipestages.Recipes.setRecipeStageByMod("Age6", "refinedstorageaddons");
 mods.recipestages.Recipes.setRecipeStageByMod("Age6", "mysticalagradditions");
 mods.recipestages.Recipes.setRecipeStageByMod("Age7", "nuclearcraft");
-mods.recipestages.Recipes.setRecipeStageByMod("Age7", "psi");
+mods.recipestages.Recipes.setRecipeStageByMod("Age6", "psi");
 mods.recipestages.Recipes.setRecipeStageByMod("Age8", "extrabotany");
 mods.recipestages.Recipes.setRecipeStageByMod("Age8", "draconicevolution");
 mods.recipestages.Recipes.setRecipeStageByMod("Age9", "avaritia");
