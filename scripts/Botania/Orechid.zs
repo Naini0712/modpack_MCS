@@ -7,3 +7,4 @@ mods.botania.Orechid.addOre(<aoa3:limonite_ore>, 1100);
 mods.botania.Orechid.addOre(<aoa3:jade_ore>, 1100);
 mods.botania.Orechid.addOre(<aoa3:rosite_ore>, 1100);
 mods.botania.Orechid.addOre(<aoa3:amethyst_ore>, 1100);
+mods.botania.Orechid.addOre(<aoa3:runium_ore>, 2200);
