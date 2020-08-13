@@ -97,3 +97,5 @@ mods.tconstruct.Alloy.removeRecipe(<liquid:marshmallow>);
 mods.tconstruct.Alloy.removeRecipe(<liquid:energetic_alloy>);
 mods.tconstruct.Alloy.removeRecipe(<liquid:vibrant_alloy>);
 mods.tconstruct.Alloy.removeRecipe(<liquid:dark_steel>);
+
+mods.tconstruct.Casting.addTableRecipe(<extendedcrafting:material:7>, <mysticalagradditions:insanium>, <liquid:glowstone_nak_hot>, 1000);
