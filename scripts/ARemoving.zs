@@ -202,3 +202,4 @@ recipes.remove(<industrialforegoing:mob_duplicator>);
 recipes.remove(<mekanism:machineblock:13>);
 recipes.remove(<extendedcrafting:material:7>);
 recipes.remove(<extendedcrafting:material:16>);
+recipes.remove(<mysticalagriculture:crafting:17>);
