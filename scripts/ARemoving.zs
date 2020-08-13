@@ -200,3 +200,5 @@ recipes.remove(<thermalfoundation:material:294>);
 recipes.remove(<thermalfoundation:material:295>);
 recipes.remove(<industrialforegoing:mob_duplicator>);
 recipes.remove(<mekanism:machineblock:13>);
+recipes.remove(<extendedcrafting:material:7>);
+recipes.remove(<extendedcrafting:material:16>);
