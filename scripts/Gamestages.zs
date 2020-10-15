@@ -128,8 +128,6 @@ mods.ItemStages.stageModItems("Age2", "projectred-integration");
 mods.ItemStages.stageModItems("Age2", "projectred-transmission");
 mods.ItemStages.stageModItems("Age3", "woot");
 mods.ItemStages.stageModItems("Age3", "thermalexpansion");
-mods.ItemStages.stageModItems("Age3", "thermalfoundation");
-mods.ItemStages.stageModItems("Age3", "thermaldynamics");
 mods.ItemStages.stageModItems("Age3", "enderio");
 mods.ItemStages.stageModItems("Age3", "simplyjetpacks");
 mods.ItemStages.stageModItems("Age4", "industrialforegoing");
