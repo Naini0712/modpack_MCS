@@ -162,8 +162,6 @@ mods.recipestages.Recipes.setRecipeStageByMod("Age2", "projectred-integration");
 mods.recipestages.Recipes.setRecipeStageByMod("Age2", "projectred-transmission");
 mods.recipestages.Recipes.setRecipeStageByMod("Age2", "woot");
 mods.recipestages.Recipes.setRecipeStageByMod("Age3", "thermalexpansion");
-mods.recipestages.Recipes.setRecipeStageByMod("Age3", "thermalfoundation");
-mods.recipestages.Recipes.setRecipeStageByMod("Age3", "thermaldynamics");
 mods.recipestages.Recipes.setRecipeStageByMod("Age3", "enderio");
 mods.recipestages.Recipes.setRecipeStageByMod("Age3", "simplyjetpacks");
 mods.recipestages.Recipes.setRecipeStageByMod("Age4", "industrialforegoing");
